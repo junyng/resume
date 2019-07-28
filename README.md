@@ -23,7 +23,7 @@
 - Codable, Decodable 프로토콜을 활용한 자전거 편의 시설 JSON 데이터 파싱
 - 편의시설 정보, 편의시설 상세정보 화면 제작
 
-##### [Github](https://github.com/smart23033/boostcamp_iOS_bipeople)
+##### Github - https://github.com/smart23033/boostcamp_iOS_bipeople
 
 </br>
 
@@ -49,7 +49,7 @@
 - 재사용 되는 CollectionView Cell을 xib 파일로 관리
 - 화면 구성 및 Auto Layout 적용
 
-##### [Github](https://github.com/junyng/univcam)
+##### Github - https://github.com/junyng/univcam
 
 </br>
 
@@ -73,7 +73,7 @@
 - GCD 네트워크 프로그래밍
 - 화면 구성 및 Auto Layout 적용
 
-##### [Github](https://github.com/junyng/smart-campus)
+##### Github - https://github.com/junyng/smart-campus
 
 </br>
 
@@ -87,7 +87,7 @@
 - WEB 과정
 - 해군참모총장상 수상
 
-##### [Github](https://github.com/huhani/mnd-wiki)
+##### Github - https://github.com/huhani/mnd-wiki
 
 </br>
 
