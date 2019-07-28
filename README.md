@@ -32,7 +32,7 @@
 
 
 
-## 프로젝트
+### 프로젝트
 
 ### [바이피플](https://github.com/smart23033/boostcamp_iOS_bipeople)
 
@@ -86,3 +86,14 @@
 - Core Data 로컬 데이터베이스 사용
 - GCD 네트워크 프로그래밍
 - 화면 구성 및 Auto Layout 적용
+
+## 수상경력
+
+### [국방위키](https://github.com/huhani/mnd-wiki)
+
+> 집단지성을 활용한 서비스 위키 군에 적용
+> 군 장병 대상 공개소프트웨어 캠프 (2018.10.22 ~ 10.26)
+
+- WEB 과정
+- 해군참모총장상 수상
+
