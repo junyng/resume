@@ -32,7 +32,7 @@
 
 
 
-### 프로젝트
+## 프로젝트
 
 ### [바이피플](https://github.com/smart23033/boostcamp_iOS_bipeople)
 
@@ -96,3 +96,4 @@
 
 - WEB 과정
 - 해군참모총장상 수상
+
