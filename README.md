@@ -7,6 +7,8 @@
 > 자전거 네비게이션 앱 - 부스트캠프 2기 프로젝트<br/>
 > 2017.08.04 ~ 2017.08.20 참여
 
+![bipeople-navi](./images/bipeople-navi.png) ![bipeople-record](./images/bipeople-record.png) ![bipeople-graph](./images/bipeople-graph.png)
+
 #### 사용 기술
 
 - Swift 4.0
