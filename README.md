@@ -1,5 +1,9 @@
 # 조준영
 
+<br/>
+
+블로그 - https://junyng.github.io/
+
 ## 프로젝트
 
 ### 바이피플
