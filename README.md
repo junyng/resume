@@ -4,6 +4,13 @@
 
 ## 프로젝트
 
+### 코드스쿼드
+
+> 코드스쿼드에서 진행한 프로젝트 목록
+
+- [JSON 문자열 분석기](https://github.com/junyng/swift-jsonparser)
+- [좌표 계산기](https://github.com/junyng/swift-coordinate)
+
 ### 바이피플
 
 > 자전거 네비게이션 앱 - 부스트캠프 2기 프로젝트<br/>
