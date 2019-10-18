@@ -106,6 +106,11 @@
 - 3기 iOS 개발
 - 2019.10. ~ 현재
 
+### 공개SW 컨트리뷰톤
+
+- [Flutter Moum](https://github.com/flutter-moum) 멘티
+- 2019.09. ~ 2019.10.
+
 ### CodeSquad
 
 - 모바일 iOS클래스
