@@ -13,7 +13,7 @@
 
 ### 바이피플
 
-> 자전거 네비게이션 앱 - 부스트캠프 2기 프로젝트<br/>
+> 자전거 네비게이션 애플리케이션 - 부스트캠프 2기 프로젝트<br/>
 > 2017.08.04 ~ 2017.08.20
 
 ![bipeople-navi](./images/bipeople-navi.png) ![bipeople-record](./images/bipeople-record.png) ![bipeople-graph](./images/bipeople-graph.png)
@@ -36,7 +36,7 @@
 
 ### 유니브캠
 
-> 강의 필기 내용을 사진을 찍어 관리할 수 있는 카메라 및 갤러리 앱<br/>
+> 강의 필기 내용을 사진을 찍어 관리할 수 있는 카메라 및 갤러리 애플리케이션<br/>
 > 2017.06. ~ 2017.08.
 
 ![univcam-main](./images/univcam-main.png)![univcam-search](./images/univcam-search.png)![univcam-photo](./images/univcam-photo.png)
@@ -62,7 +62,7 @@
 
 ### 스마트 캠퍼스
 
-> 인천대학교 학내 공식 학사정보 어플리케이션<br/>
+> 인천대학교 학내 공식 학사정보 애플리케이션<br/>
 > 2016.01. ~ 2016.06.
 
 ![smartcampus](./images/smartcampus.jpeg)
@@ -109,7 +109,7 @@
 ### 공개SW 컨트리뷰톤
 
 - [Flutter Moum](https://github.com/flutter-moum) 멘티
-- 2019.09. ~ 2019.10.
+- 2019.09.07 ~ 2019.11.02
 
 ### CodeSquad
 
