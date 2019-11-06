@@ -92,9 +92,9 @@
 > 공개 SW 컨트리뷰톤 (2019.09.07 ~ 2019.11.02)
 
 - iOS 개발 참여
-- 정보통신산업진흥원장상 수상
+- 우수상(정보통신산업진흥원장상) 수상
 
-**Github - https://github.com/flutter-moum**
+##### Github - https://github.com/flutter-moum/flutter_sim_info
 
 ### 국방위키
 
