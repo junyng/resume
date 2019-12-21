@@ -110,8 +110,8 @@
 
 ## 발표
 
-- 2019.12.21 DDD 3기 iOS 세미나
-  [객체지향 설계](https://www.slideshare.net/ssusered8a0a/oop-in-swift)
+- 2019.12.21 DDD 3기 iOS 세미나<br/>
+  [객체지향 설계](https://www.slideshare.net/ssusered8a0a/ss-208779290)
 
 ## 활동
 
