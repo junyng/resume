@@ -5,24 +5,22 @@
 ## 경력
 
 ### Kakao
-> 동영상클라이언트 개발 인턴<br/>
+
 > 2019.12.26 ~ 2020.02.29
 
+- 동영상클라이언트 개발 인턴
 - 동영상 플레이어 및 동영상 편집기 SDK 개발 과제 수행
 
 ## 프로젝트
 
 ### 코드스쿼드
-
-> 코드스쿼드에서 진행한 프로젝트 목록
+> 코드스쿼드 마스터즈코스 수행프로젝트
 
 - [JSON 문자열 분석기](https://github.com/junyng/swift-jsonparser)
 - [좌표 계산기](https://github.com/junyng/swift-coordinate)
 
 ### 바이피플
-
-> 자전거 네비게이션 애플리케이션  - 부스트캠프 2기 프로젝트<br/>
-> 2017.08.04 ~ 2017.08.20
+> 부스트캠프 프로젝트, 자전거 네비게이션 애플리케이션 (2017.08.04 ~ 2017.08.20)
 
 ![bipeople-navi](./images/bipeople-navi.png) ![bipeople-record](./images/bipeople-record.png) ![bipeople-graph](./images/bipeople-graph.png)
 
@@ -38,18 +36,15 @@
 - Codable, Decodable 프로토콜을 활용한 자전거 편의 시설 JSON 데이터 파싱
 - 편의시설 정보, 편의시설 상세정보 화면 제작
 
-##### Github - https://github.com/smart23033/boostcamp_iOS_bipeople
+##### [repository](https://github.com/smart23033/boostcamp_iOS_bipeople)
 
 </br>
 
 ### 유니브캠
 
-> 강의 필기 내용을 사진을 찍어 관리할 수 있는 카메라 및 갤러리 애플리케이션<br/>
-> 2017.06. ~ 2017.08
+> 강의 필기 내용을 사진을 찍어 관리하는 카메라 및 갤러리 애플리케이션 (2017.06. ~ 2017.08)
 
 ![univcam-main](./images/univcam-main.png)![univcam-search](./images/univcam-search.png)![univcam-photo](./images/univcam-photo.png)
-
-
 
 #### 사용 기술
 
@@ -64,14 +59,12 @@
 - 재사용 되는 CollectionView Cell을 xib 파일로 관리
 - 화면 구성 및 Auto Layout 적용
 
-##### Github - https://github.com/junyng/univcam
+##### [repository](https://github.com/junyng/univcam)
 
 </br>
 
 ### 스마트 캠퍼스
-
-> 인천대학교 학내 공식 학사정보 애플리케이션<br/>
-> 2016.01. ~ 2016.06
+> 인천대학교 학내 공식 학사정보 애플리케이션 (2016.01. ~ 2016.06)
 
 ![smartcampus](./images/smartcampus.jpeg)
 
@@ -84,81 +77,72 @@
 
 #### 수행 역할
 
-- Core Data 로컬 데이터베이스 사용
-- GCD 네트워크 프로그래밍
+- Core Data 데이터베이스 사용
 - 화면 구성 및 Auto Layout 적용
 
-##### Github - https://github.com/junyng/smart-campus
+##### [repository](https://github.com/junyng/smart-campus)
 
 </br>
 
 ## 수상경력
 
 ### Flutter-Moum
-
-> Flutter 라이브러리 제작<br/>
 > 공개 SW 컨트리뷰톤 (2019.09.07 ~ 2019.11.02)
 
-- iOS 개발 참여
+- Flutter 라이브러리 제작
+- iOS 개발
 - 우수상(정보통신산업진흥원장상) 수상
 
-##### Github - https://github.com/flutter-moum/flutter_sim_info
+##### [repository](https://github.com/flutter-moum/flutter_sim_info)
 
 ### 국방위키
-
-> 집단지성을 활용한 서비스 위키 군에 적용<br/>
 > 군 장병 대상 공개소프트웨어 캠프 (2018.10.22 ~ 10.26)
 
-- WEB 과정
+- 집단지성을 활용한 서비스 위키 군 적용
+- WEB 과정 참여
 - 해군참모총장상 수상
 
-##### Github - https://github.com/huhani/mnd-wiki
+##### [repository](https://github.com/huhani/mnd-wiki)
 
 </br>
 
 ## 발표
 
-- 2019.12.21 DDD 3기 iOS 세미나<br/>
-  [객체지향 설계](https://www.slideshare.net/ssusered8a0a/ss-208790415)
+- 2019.12.21 DDD 3기 iOS 세미나 - [객체지향 설계](https://www.slideshare.net/ssusered8a0a/ss-208790415)
 
 ## 활동
 
-### DDD.
+### DDD
+> 디자이너 및 개발자 그룹 (2019.10 ~ 2020.3)
 
-- 디자이너 및 개발자 그룹
 - 3기 iOS 개발
-- 2019.10. ~ 현재
 
 ### 공개SW 컨트리뷰톤
+> [Flutter Moum](https://github.com/flutter-moum) 멘티 (2019.09.07 ~ 2019.11.02)
 
-- [Flutter Moum](https://github.com/flutter-moum) 멘티
-- 2019.09.07 ~ 2019.11.02
+- Flutter 라이브러리 iOS 파트 개발
 
 ### CodeSquad
+> 마스터즈코스 (2019.04.01 ~ 2019.08.21)
 
-- 모바일 iOS클래스
-- 2019.04.01 ~ 2019.08.21
+- 모바일 iOS 클래스
 
 ### BoostCamp 2기
+> 네이버 커넥트재단 교육 (2017.07.03 ~ 2017.08.20)
 
-- 커넥트재단
-- 2017.07.03 ~ 2017.08.20
+- iOS 클래스
 
 ### NEXTERS
+> IT 연합동아리 (2016.12. ~ 2017.02)
 
-- IT 연합동아리
 - 10기 iOS 개발
-- 2016.12. ~ 2017.02
 
 ### YAPP
+> IT 연합동아리 (2016.06. ~ 2016.09)
 
-- IT 연합동아리
 - 9기 iOS 개발
-- 2016.06. ~ 2016.09
 
-### 인천대 앱센터
+### 인천대학교 앱센터
+> 교내 IT 동아리 (2015.09 ~ 2017.08)
 
-- 교내 IT 동아리
 - iOS 개발
-- 2015.09 ~ 2017.08
-
