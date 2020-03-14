@@ -30,7 +30,7 @@
 #### 수행 역할
 - 배경음악 및 보이스 오버 트랙 오디오 믹싱
 - 비디오 트랙 간 오디오 트랜지션 적용
-- 영상 오버레이 구현
+- 영상 오버레이 (title, watermark, caption) 구현
 
 <br/>
 
@@ -58,6 +58,8 @@
 - [JSON 문자열 분석기](https://github.com/junyng/swift-jsonparser)
 - [좌표 계산기](https://github.com/junyng/swift-coordinate)
 
+<br/>
+
 ### BIPeople
 > 부스트캠프 프로젝트, 자전거 네비게이션 애플리케이션 (2017.08.04 ~ 2017.08.20)
 
@@ -75,7 +77,7 @@
 - Codable, Decodable 프로토콜을 활용한 자전거 편의 시설 JSON 데이터 파싱
 - 편의시설 정보, 편의시설 상세정보 화면 제작
 
-##### [repository](https://github.com/smart23033/boostcamp_iOS_bipeople)
+##### [project repo](https://github.com/smart23033/boostcamp_iOS_bipeople)
 
 </br>
 
@@ -98,7 +100,7 @@
 - 재사용 되는 CollectionView Cell을 xib 파일로 관리
 - 화면 구성 및 Auto Layout 적용
 
-##### [repository](https://github.com/junyng/univcam)
+##### [project repo](https://github.com/junyng/univcam)
 
 </br>
 
@@ -119,7 +121,7 @@
 - Core Data 데이터베이스 사용
 - 화면 구성 및 Auto Layout 적용
 
-##### [repository](https://github.com/junyng/smart-campus)
+##### [project repo](https://github.com/junyng/smart-campus)
 
 </br>
 
@@ -132,7 +134,9 @@
 - iOS 개발
 - 우수상(정보통신산업진흥원장상) 수상
 
-##### [repository](https://github.com/flutter-moum/flutter_sim_info)
+##### [project repo](https://github.com/flutter-moum/flutter_sim_info)
+
+</br>
 
 ### 국방위키
 > 군 장병 대상 공개소프트웨어 캠프 (2018.10.22 ~ 10.26)
@@ -141,7 +145,7 @@
 - WEB 과정 참여
 - 해군참모총장상 수상
 
-##### [repository](https://github.com/huhani/mnd-wiki)
+##### [project repo](https://github.com/huhani/mnd-wiki)
 
 </br>
 
