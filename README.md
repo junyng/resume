@@ -19,7 +19,7 @@
 ![videoeditor](./images/videoeditor.png)
 
 #### 수행 역할
-- 오디오 믹싱
+- 배경음악, 보이스 오버 트랙 오디오 믹싱
 - 비디오 트랙 간 오디오 트랜지션 적용
 - 플레이어 뷰 위에 오버레이 구현
 
@@ -39,13 +39,13 @@
 
 <br/>
 
-### 코드스쿼드
+### CodeSquad
 > 코드스쿼드 마스터즈코스 수행프로젝트
 
 - [JSON 문자열 분석기](https://github.com/junyng/swift-jsonparser)
 - [좌표 계산기](https://github.com/junyng/swift-coordinate)
 
-### 바이피플
+### BIPeople
 > 부스트캠프 프로젝트, 자전거 네비게이션 애플리케이션 (2017.08.04 ~ 2017.08.20)
 
 ![bipeople-navi](./images/bipeople-navi.png) ![bipeople-record](./images/bipeople-record.png) ![bipeople-graph](./images/bipeople-graph.png)
@@ -66,7 +66,7 @@
 
 </br>
 
-### 유니브캠
+### UnivCam
 
 > 강의 필기 내용을 사진을 찍어 관리하는 카메라 및 갤러리 애플리케이션 (2017.06. ~ 2017.08)
 
@@ -89,7 +89,7 @@
 
 </br>
 
-### 스마트 캠퍼스
+### SmartCampus
 > 인천대학교 학내 공식 학사정보 애플리케이션 (2016.01. ~ 2016.06)
 
 ![smartcampus](./images/smartcampus.jpeg)
