@@ -14,9 +14,12 @@
 ## 프로젝트
 
 ### VideoEditor
-> Kakao 인턴십 수행 과제
+> Kakao 인턴십 수행 과제, 비디오 및 오디오 트랙을 구성하는 비디오 편집 애플리케이션
 
 ![videoeditor](./images/videoeditor.png)
+
+#### 사용 기술
+- AVFoundation (AVComposition, AVVideoComposition, AVAudioMix)
 
 #### 수행 역할
 - 배경음악, 보이스 오버 트랙 오디오 믹싱
@@ -26,9 +29,12 @@
 <br/>
 
 ### VideoPlayer
-> Kakao 인턴십 수행 과제
+> Kakao 인턴십 수행 과제, 커스텀 비디오 플레이어 애플리케이션
 
 ![videoplayer](./images/videoplayer.png)
+
+#### 사용 기술
+- AVFoundation (AVPlayer)
 
 #### 수행 역할
 - 동영상 제어 play, pause, seeking 및 subtitle 구현
