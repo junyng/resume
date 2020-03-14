@@ -19,14 +19,18 @@
 ![videoeditor](./images/videoeditor.png)
 
 #### 사용 기술
-- AVFoundation (AVComposition, AVVideoComposition, AVAudioMix)
+- AVFoundation 
+    - AVComposition
+    - AVAudioMix
+    - AVSynchronizedLayer
+- Core Animation
+    - CABasicAnimation
+    - CAAnimationGroup
 
 #### 수행 역할
 - 배경음악, 보이스 오버 트랙 오디오 믹싱
 - 비디오 트랙 간 오디오 트랜지션 적용
 - 플레이어 뷰 위에 오버레이 구현
-
-<br/>
 
 ### VideoPlayer
 > Kakao 인턴십 수행 과제, 커스텀 비디오 플레이어 애플리케이션
@@ -34,7 +38,8 @@
 ![videoplayer](./images/videoplayer.png)
 
 #### 사용 기술
-- AVFoundation (AVPlayer)
+- AVFoundation
+    - AVPlayer
 
 #### 수행 역할
 - 동영상 제어 play, pause, seeking 및 subtitle 구현
