@@ -48,8 +48,6 @@
 - 플레이어와 뷰 사이의 이벤트 바인딩
 - 플레이어 뷰 변경 가능성에 따른 프로토콜 적용
 
-##### [인턴십 최종 발표 자료](https://drive.google.com/file/d/1nJOYaHeZq5PZ5pgtH73-yYrzqxWYhRTt/view?usp=sharing)
-
 <br/>
 
 ### CodeSquad
@@ -60,7 +58,7 @@
 
 <br/>
 
-### BIPeople
+### BiPeople
 > 부스트캠프 프로젝트, 자전거 네비게이션 애플리케이션 (2017.08.04 ~ 2017.08.20)
 
 ![bipeople-navi](./images/bipeople-navi.png) ![bipeople-record](./images/bipeople-record.png) ![bipeople-graph](./images/bipeople-graph.png)
@@ -77,7 +75,7 @@
 - Codable, Decodable 프로토콜을 활용한 자전거 편의 시설 JSON 데이터 파싱
 - 편의시설 정보, 편의시설 상세정보 화면 제작
 
-##### [project repo](https://github.com/smart23033/boostcamp_iOS_bipeople)
+##### [Project repo](https://github.com/smart23033/boostcamp_iOS_bipeople)
 
 </br>
 
@@ -100,7 +98,7 @@
 - 재사용 되는 CollectionView Cell을 xib 파일로 관리
 - 화면 구성 및 Auto Layout 적용
 
-##### [project repo](https://github.com/junyng/univcam)
+##### [Project repo](https://github.com/junyng/univcam)
 
 </br>
 
@@ -121,7 +119,7 @@
 - Core Data 데이터베이스 사용
 - 화면 구성 및 Auto Layout 적용
 
-##### [project repo](https://github.com/junyng/smart-campus)
+##### [Project repo](https://github.com/junyng/smart-campus)
 
 </br>
 
@@ -134,7 +132,7 @@
 - iOS 개발
 - 우수상(정보통신산업진흥원장상) 수상
 
-##### [project repo](https://github.com/flutter-moum/flutter_sim_info)
+##### [Project repo](https://github.com/flutter-moum/flutter_sim_info)
 
 </br>
 
@@ -145,7 +143,7 @@
 - WEB 과정 참여
 - 해군참모총장상 수상
 
-##### [project repo](https://github.com/huhani/mnd-wiki)
+##### [Project repo](https://github.com/huhani/mnd-wiki)
 
 </br>
 
