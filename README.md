@@ -9,9 +9,35 @@
 > 2019.12.26 ~ 2020.02.29
 
 - 동영상클라이언트 개발 인턴
-- 동영상 플레이어 및 동영상 편집기 SDK [개발 과제](https://drive.google.com/file/d/1nJOYaHeZq5PZ5pgtH73-yYrzqxWYhRTt/view?usp=sharing) 수행
+- 동영상 플레이어 및 동영상 편집기 SDK [개발 과제](#VideoEditor) 수행
 
 ## 프로젝트
+
+### VideoEditor
+> Kakao 인턴십 수행 과제
+
+![videoeditor](./images/videoeditor.png)
+
+#### 수행 역할
+- 오디오 믹싱
+- 비디오 트랙 간 오디오 트랜지션 적용
+- 플레이어 뷰 위에 오버레이 구현
+
+<br/>
+
+### VideoPlayer
+> Kakao 인턴십 수행 과제
+
+![videoplayer](./images/videoplayer.png)
+
+#### 수행 역할
+- 동영상 제어 play, pause, seeking 및 subtitle 구현
+- 플레이어와 뷰 사이의 이벤트 바인딩
+- 플레이어 뷰 변경 가능성에 따른 프로토콜 적용
+
+##### [인턴십 최종 발표 자료](https://drive.google.com/file/d/1nJOYaHeZq5PZ5pgtH73-yYrzqxWYhRTt/view?usp=sharing)
+
+<br/>
 
 ### 코드스쿼드
 > 코드스쿼드 마스터즈코스 수행프로젝트
