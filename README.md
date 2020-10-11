@@ -1,6 +1,6 @@
 # 조준영
 
-[블로그](https://junyng.github.io/)🖱
+[블로그](https://junyng.tistory.com/)
 
 ## 경력
 
